@@ -1,3 +1,5 @@
+weather app: gets current location from browser and displays weather information
+
 ### Universal JS Boilerplate
 
 ---
